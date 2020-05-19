@@ -1,0 +1,74 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    width: 100%;
+    border: none;
+    top: 45px;
+}
+
+.dropdown,
+.dropdown-item {
+    position: initial;
+    border-left: 0 solid #00ff99;
+    transition: border-left 300ms ease-in-out, padding-left 300ms ease-in-out;
+}
+
+.dropdown:hover,
+.dropdown-item:hover {
+    padding-left: 0.5rem;
+    border-left: 0.5rem solid #00ff99;
+}
+
+.navbar {
+    background-color: rgba(188, 224, 217);
+}
+
+.fin {
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    background-color: rgba(188, 224, 217);
+    text-align: center;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgb(152, 228, 196);
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.docteur {
+    width: 30%;
+    margin: 5px;
+    background-color: aquamarine;
+    float: left;
+    height: auto;
+}
+
+.info_docteur {
+    text-align: center;
+}
+
+.text {
+    font-weight: bolder;
+    width: 75%;
+    margin-left: 25%;
+    text-align: center;
+    background-color: rgba(188, 224, 217);
+}
+
+.text>a {
+    text-decoration: none;
+    color: black;
+    width: auto;
+}
+
+.text>a:hover {
+    display: block;
+    background-color: transparent;
+}

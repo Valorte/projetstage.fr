@@ -1,0 +1,90 @@
+<div class="header_menu">
+    <div class="header_logo">
+        <a href="../index.php">Acceuil</a>
+    </div>
+    <div class="navbar" id="mynavbar">
+        <div class="categorie">
+            <a href="/clinique/clinique.php " class="bouton_categorie">Clinique</a>
+            <div class="contenu_categorie">
+                <div class="sous_categorie">
+                    <a href="/clinique/clinique.php">La clinique</a>
+                    <a href="/clinique/equipe.php">L'équipe</a>
+                    <a href="/clinique/vision.php">Notre vision</a>
+                    <a href="/clinique/consultation.php">Les consultations</a>
+                </div>
+            </div>
+            <div class="categorie_1">
+                <a href="/visage/visage.php " class="bouton_categorie_1 underline__in__hover">Visage</a>
+                <div class="contenu_categorie_1">
+                    <div class="sous_categorie_1">
+                        <a href="/visage/teint.php">Teint éclatant (peeling et hydrafacial)</a>
+                        <a href="/visage/ride.php">Les rides</a>
+                        <a href="/visage/cutané.php">Relâchement cutané</a>
+                        <a href="/visage/regard.php">Le regard</a>
+                        <a href="/visage/pomettes.php">Les pommettes et tempes</a>
+                        <a href="/visage/nez.php">Le nez</a>
+                        <a href="/visage/levres.php">Les levres</a>
+                        <a href="/visage/menton.php">Le menton</a>
+                        <a href="/visage/decolleté.php">Cou- Décolleté</a>
+                        <a href="/visage/ovale.php">Ovale du visage</a>
+                        <a href="/visage/acné.php">Acné</a>
+                        <a href="/visage/couperose.php">Couperose</a>
+                    </div>
+                </div>
+            </div>
+            <div class="categorie_1">
+                <a href="/corps/corps.php" class="bouton_categorie_1">Corps</a>
+                <div class="contenu_categorie_1">
+                    <div class="sous_categorie_1">
+                        <a href="/corps/amincissement.php">Amincissement et remodelage</a>
+                        <a href="/corps/cutané.php">Cutané</a>
+                        <a href="/corps/cellulite.php">Cellulite</a>
+                        <a href="/corps/fesse.php">Fesses plates</a>
+                        <a href="/corps/detatouage.php">Détatouage</a>
+                        <a href="/corps/tache.php">Tache brune</a>
+                        <a href="/corps/rougeur.php">Rougeur</a>
+                        <a href="/corps/cicatrice.php">Cicatrice et vergeture</a>
+                        <a href="/corps/transpiration.php">Transpiration</a>
+                        <a href="/corps/rajeunissement.php">Rajeunissement main et pied</a>
+                        <a href="/corps/varicosité.php">Varicosité</a>
+                    </div>
+                </div>
+            </div>
+            <div class="categorie_1">
+                <a href="/cheveux_pilosité/cheveux_pilosité.php" class="bouton_categorie_1">Cheveux\Pilosité</a>
+                <div class="contenu_categorie_1">
+                    <div class="sous_categorie_1">
+                        <a href="/cheveux_pilosité/epilation.php">Epilation définitive</a>
+                        <a href="/cheveux_pilosité/calvitie.php">Calvitie</a>
+                        <a href="/cheveux_pilosité/perte.php">Perte de cheveux</a>
+                        <a href="/cheveux_pilosité/barbe.php">La barbe</a>
+                    </div>
+                </div>
+            </div>
+            <div class="categorie_1">
+                <a href="/dents/dents.php" class="bouton_categorie_1">Les dents</a>
+                <div class="contenu_categorie_1">
+                    <div class="sous_categorie_1">
+                        <a href="/dents/blanchiment.php">Blanchiment dentaire</a>
+                        <a href="/dents/implant.php">Les implants</a>
+                        <a href="/dents/facette.php">Facette</a>
+                    </div>
+                </div>
+            </div>
+            <div class="categorie_1">
+                <a href="/nutrition/nutrition.php" class="bouton_categorie_1">Nutrition</a>
+                <div class="contenu_categorie_1">
+                    <div class="sous_categorie_1">
+                        okok
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <a href="/tarif/tarif.php" class="bouton_categorie_1">Tarif</a>
+        <a href="/contact/contact.php" class="bouton_categorie_1">Contact</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+</div>
